@@ -19,7 +19,6 @@
     "url": "https://github.com/GennadiyShpak/goIt-Node/issues"
   },
   "homepage": "https://github.com/GennadiyShpak/goIt-Node#readme",
-  "dependencies": {},
   "devDependencies": {
     "nodemon": "^2.0.15",
     "short-uuid": "^4.2.0",
